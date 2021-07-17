@@ -9,3 +9,4 @@
 <br>
 
 ## Colaboradores:
+- @quazariun
