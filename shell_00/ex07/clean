@@ -1,2 +1,3 @@
 find . -type f \( -iname '*~' -o -iname '#*#'  \) -print -delete
-              
+
+comando | pasta atual | tipo: arquivo | EXPRESSÃO | AÇÃO
