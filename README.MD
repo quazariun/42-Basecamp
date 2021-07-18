@@ -1,7 +1,7 @@
 # O BÁSICO BEM FEITO
 ---
 ## Propósito do Repositório:
--	O repositório tem como propósito...
+-	O repositório tem como propósito qualquer coisa...
 
 
 ## Como contribuir?
