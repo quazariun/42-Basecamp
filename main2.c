@@ -27,7 +27,7 @@ void mensagem_final()
 	printf("MENSAGEM FINAL!!!!\n\n");
 }
 
-int main()
+int ponto_de_entrada()
 {
 	int h;
 	int x;
